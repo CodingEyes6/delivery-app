@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "323955022493",
+    "project_id": "thebombaylife-d0e4a",
+    "storage_bucket": "thebombaylife-d0e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323955022493:android:3d7568f571ee7c91385274",
+        "android_client_info": {
+          "package_name": "com.thebombaylife.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnwZcI7tUaubdIJ1N0lfsoj3yxNWzbS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323955022493-16i6ettotjnjj8m5o2qsiqmjlri1nnjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebombaylife.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323955022493:android:b5c85f3c6377aa72385274",
+        "android_client_info": {
+          "package_name": "com.thebombaylife.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnwZcI7tUaubdIJ1N0lfsoj3yxNWzbS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323955022493-16i6ettotjnjj8m5o2qsiqmjlri1nnjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebombaylife.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323955022493:android:01bfe3fba9a1e53f385274",
+        "android_client_info": {
+          "package_name": "com.thebombaylife.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdnwZcI7tUaubdIJ1N0lfsoj3yxNWzbS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323955022493-kqspuctemmap8tfmmfs742f1991bj59p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323955022493-16i6ettotjnjj8m5o2qsiqmjlri1nnjr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebombaylife.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
